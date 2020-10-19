@@ -1,0 +1,394 @@
+{
+    "campsites": [
+      {
+        "id": 0,
+        "name": "Hate One Way",
+        "image": "images/HateOneWay-Directory.PNG",
+        "info": "images/HateOneWay.PNG",
+        "elevation": 1233,
+        "featured": false,
+        "description": "In a world full of HATE, Bart shows that all you need is STOP hatin' & start lovin'!"
+      },
+      {
+        "id": 1,
+        "name": "Aerial Attack",
+        "image": "images/aerial-attack.JPG",
+        "info": "images/aerial-attack.JPG",
+        "elevation": 877,
+        "featured": false,
+        "description": "An aeriel attack of emotion & pain describes what is really going on inside Bart's mind."
+      },
+      {
+        "id": 2,
+        "name": "Rabbit Hole",
+        "image": "images/rabbit-hole-Directory.jpg",
+        "info": "images/rabbit-hole.jpg",
+        "elevation": 2901,
+        "featured": false,
+        "description": "Find yourself at 2am gazing down this rabbit hole of drama and thrills"
+      },
+      {
+        "id": 3,
+        "name": "Yin & Yang",
+        "image": "images/yin-yang-Directory.JPG",
+        "info": "images/yin-yang.JPG",
+        "elevation": 42,
+        "featured": true,
+        "description": "There are two sides to every story."
+      },
+      {
+        "id": 4,
+        "name": "River Amoeba",
+        "image": "images/river-amoeba-Directory.jpg",
+        "info": "images/river-amoeba.jpg",
+        "price": 1042,
+        "featured": false,
+        "description": "Swimming through a beautiful flowing river of dangers and uncertainity."
+      },
+      {
+        "id": 5,
+        "name": "Sea Scrap",
+        "image": "images/fish-Directory.jpg",
+        "info": "images/fish.jpg",
+        "price": 1042,
+        "featured": false,
+        "description": "A beautiful collection of found ocean debris."
+      },
+      {
+        "id": 6,
+        "name": "Pittsburgh N'At",
+        "image": "images/Frames-Directory.jpg",
+        "info": "images/Frames.jpg",
+        "price": 1042,
+        "featured": false,
+        "description": "A collection of vintage Pittsburgh brewed beers."
+      },
+      {
+        "id": 7,
+        "name": "Sit & Reflect",
+        "image": "images/imagine-Directory.jpg",
+        "info": "images/imagine.jpg",
+        "price": 1042,
+        "featured": false,
+        "description": "A cool reflection awaits!"
+      },
+      {
+        "id": 8,
+        "name": "2020 Vision",
+        "image": "images/the-world-Directory.jpg",
+        "info": "images/the-world.jpg",
+        "price": 1042,
+        "featured": false,
+        "description": "We need change!"
+      },
+      {
+        "id": 9,
+        "name": "I Can Taste My Heart Breath",
+        "image": "images/taste-Directory.jpg",
+        "info": "images/taste.jpg",
+        "price": 1042,
+        "featured": false,
+        "description": "A wild display of twists and turns!"
+      },
+      {
+        "id": 10,
+        "name": "Triangle of Death",
+        "image": "images/triangle.jpg",
+        "info": "images/triangle.jpg",
+        "price": 1042,
+        "featured": false,
+        "description": "You can look! But you can't touch."
+      },
+      {
+        "id": 11,
+        "name": "Red River",
+        "image": "images/brassgrain-Directory.jpg",
+        "info": "images/brassgrain.jpg",
+        "price": 1042,
+        "featured": false,
+        "description": "No matter how you look at it, it's a different experience everytime. "
+      },
+      {
+        "id": 12,
+        "name": "Heart Lock",
+        "image": "images/heartlock-Directory.jpg",
+        "info": "images/heartlock.jpg",
+        "price": 1042,
+        "featured": false,
+        "description": "Grinding away at your love. You just can't stop."
+      },
+      {
+        "id": 13,
+        "name": "Choose Your Fate",
+        "image": "images/fishermansretreat-Directory.jpg",
+        "info": "images/fishermansretreat.jpg",
+        "price": 1042,
+        "featured": false,
+        "description": "Every decision in life has consequences."
+      }
+    ],
+    "comments": [
+      {
+        "id": 0,
+        "campsiteId": 0,
+        "rating": 5,
+        "text": "You can tell the amount of passion he puts into his work!",
+        "author": "Tinus Lorvaldes",
+        "date": "2019-10-25T16:30Z"
+      },
+      {
+        "id": 1,
+        "campsiteId": 0,
+        "rating": 3,
+        "text": "The canvas was beautiful, but I can't seem to fit it anywhere in my house!",
+        "author": "Brennen Ech",
+        "date": "2018-06-17T03:33Z"
+      },
+      {
+        "id": 2,
+        "campsiteId": 0,
+        "rating": 5,
+        "text": "Absolutely in love with all of his work. Such a down to earth gentlemen as well!",
+        "author": "McKenzie Sebastian",
+        "date": "2019-02-18T18:12Z"
+      },
+      {
+        "id": 3,
+        "campsiteId": 0,
+        "rating": 5,
+        "text": "A wonderful collection of pieces he has. Will definitely be coming to his next show!",
+        "author": "Jordan Runn",
+        "date": "2019-08-04T20:11Z"
+      },
+      {
+        "id": 4,
+        "campsiteId": 0,
+        "rating": 4,
+        "text": "The Hate One Way piece is my favorite!",
+        "author": "Ann Dabramov",
+        "date": "2018-07-23T19:44Z"
+      },
+      {
+        "id": 5,
+        "campsiteId": 1,
+        "rating": 4,
+        "text": "This one was beautiful, it really caught my eye.",
+        "author": "Brennen Ech",
+        "date": "2017-06-17T03:33Z"
+      },
+      {
+        "id": 6,
+        "campsiteId": 1,
+        "rating": 5,
+        "text": "So much emotion in this piece. Makes me feel some type of way.",
+        "author": "McKenzie Sebastian",
+        "date": "2019-02-18T18:12Z"
+      },
+      {
+        "id": 7,
+        "campsiteId": 1,
+        "rating": 2,
+        "text": "This one is all over the place. I do not like.",
+        "author": "Jordan Runn",
+        "date": "2019-08-04T20:11Z"
+      },
+      {
+        "id": 8,
+        "campsiteId": 1,
+        "rating": 4,
+        "text": "Don't listen to Jordan! Keep making beautiful work!",
+        "author": "Ann Dabramov",
+        "date": "2018-07-23T19:44Z"
+      },
+      {
+        "id": 9,
+        "campsiteId": 1,
+        "rating": 5,
+        "text": "What a magnificent piece!",
+        "author": "Tinus Lorvaldes",
+        "date": "2018-10-25T16:30Z"
+      },
+      {
+        "id": 10,
+        "campsiteId": 2,
+        "rating": 5,
+        "text": "I was starstruck when I met Dan Bart!",
+        "author": "McKenzie Sebastian",
+        "date": "2019-02-18T18:12Z"
+      },
+      {
+        "id": 11,
+        "campsiteId": 2,
+        "rating": 5,
+        "text": "The attention to detail in this piece is fantastic.",
+        "author": "Jordan Runn",
+        "date": "2019-08-04T20:11Z"
+      },
+      {
+        "id": 12,
+        "campsiteId": 2,
+        "rating": 4,
+        "text": "This one is going right above my headboard!",
+        "author": "Ann Dabramov",
+        "date": "2018-07-23T19:44Z"
+      },
+      {
+        "id": 13,
+        "campsiteId": 2,
+        "rating": 5,
+        "text": "Definitely worth the price when you consider all pf the hard work and focus!",
+        "author": "Tinus Lorvaldes",
+        "date": "2018-10-25T16:30Z"
+      },
+      {
+        "id": 14,
+        "campsiteId": 2,
+        "rating": 4,
+        "text": "I want to have a paint party with the man himself!.",
+        "author": "Brennen Ech",
+        "date": "2017-06-17T03:33Z"
+      },
+      {
+        "id": 15,
+        "campsiteId": 3,
+        "rating": 5,
+        "text": "Such a solid piece with a wonderful story.",
+        "author": "Jordan Runn",
+        "date": "2019-08-04T20:11Z"
+      },
+      {
+        "id": 16,
+        "campsiteId": 3,
+        "rating": 4,
+        "text": "It even glows in the dark! I think.",
+        "author": "Ann Dabramov",
+        "date": "2018-07-23T19:44Z"
+      },
+      {
+        "id": 17,
+        "campsiteId": 3,
+        "rating": 5,
+        "text": "Got this for my mom on mother's day!",
+        "author": "Tinus Lorvaldes",
+        "date": "2018-10-25T16:30Z"
+      },
+      {
+        "id": 18,
+        "campsiteId": 3,
+        "rating": 4,
+        "text": "I see heaven and hell in this piece. It perfectly shows the highs and lows of life.",
+        "author": "Brennen Ech",
+        "date": "2017-06-17T03:33Z"
+      },
+      {
+        "id": 19,
+        "campsiteId": 3,
+        "rating": 5,
+        "text": "I will be a lifetime customer.",
+        "author": "McKenzie Sebastian",
+        "date": "2019-02-18T18:12Z"
+      },
+      {
+        "campsiteId": 0,
+        "rating": "5",
+        "author": "Jaime Gerst",
+        "text": "LOVE this! ",
+        "date": "2020-08-21T00:37:34.532Z",
+        "id": 20
+      },
+      {
+        "campsiteId": 0,
+        "rating": "5",
+        "author": "Nick Marofsky",
+        "text": "stop hate, spread love! 🤟🏼",
+        "date": "2020-08-21T00:37:57.859Z",
+        "id": 21
+      },
+      {
+        "campsiteId": 10,
+        "rating": "4",
+        "author": "Lynard Skynard",
+        "text": "I used to play the triangle back in the band!",
+        "date": "2020-10-12T17:31:29.042Z",
+        "id": 22
+      }
+    ],
+    "partners": [
+      {
+        "id": 0,
+        "name": "Valspar Paint",
+        "image": "images/valspar-logo.png",
+        "featured": false,
+        "description": "Valspar Paint supplies you with the best paint at prices you can't beat."
+      },
+      {
+        "id": 1,
+        "name": "Cape Water Tours and Taxi",
+        "image": "images/cwt-logo.png",
+        "featured": false,
+        "description": "More Than Just a Boat Ride. Whether this is your first or 500th visit to the Delaware beaches, you will never have a better view of the uniqueness of the southern Delaware waterways than the view you get when you are on one of the cruises or tours offered by Cape water tours and taxi."
+      },
+      {
+        "id": 2,
+        "name": "Delaware Humane Association",
+        "image": "images/dha-logo.png",
+        "featured": false,
+        "description": "We value matching the right people with the right animals, offering a friendly and welcoming environment, empowering others to care for animals, and being kind, caring, and compassionate."
+      },
+      {
+        "id": 3,
+        "name": "The Blue Moon",
+        "image": "images/BlueMoonLogo.png",
+        "featured": true,
+        "description": "Looking for a fun, yet sophisticated restaurant run by fascinating people who nourish your appetite - and a whole lot more? Dine in style at the Blue Moon in Rehoboth Beach, where food and theatrics are both center stage."
+      }
+    ],
+    "promotions": [
+      {
+        "id": 0,
+        "name": "Painting With A Twist",
+        "image": "images/wine-and-paint-brushes.jpg",
+        "featured": true,
+        "description": "Book an evening of fun and laughter! Come paint with Dan Bart himself and BYOB!"
+      }
+    ],
+    "feedback": [
+      {
+        "id": 0,
+        "firstname": "Test",
+        "lastname": "Test",
+        "telnum": "12345",
+        "email": "test@test.com",
+        "agree": true,
+        "contactType": "Email",
+        "message": "test",
+        "date": "2019-10-25T13:30Z"
+      },
+      {
+        "date": "2020-07-25T15:55:00.853Z",
+        "id": 1
+      },
+      {
+        "firstName": "Nicholas",
+        "lastName": "Marofsky",
+        "phoneNum": "7247663389",
+        "email": "slrv@iup.edu",
+        "agree": true,
+        "contactType": "Phone",
+        "feedback": "hi",
+        "date": "2020-07-25T16:04:40.554Z",
+        "id": 2
+      },
+      {
+        "firstName": "Nicholas",
+        "lastName": "Marofsky",
+        "phoneNum": "7247663389",
+        "email": "slrv@iup.edu",
+        "agree": true,
+        "contactType": "Phone",
+        "feedback": "hi",
+        "date": "2020-07-25T16:05:22.491Z",
+        "id": 3
+      }
+    ]
+  }
