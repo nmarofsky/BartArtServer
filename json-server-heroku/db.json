@@ -134,6 +134,33 @@
         "price": 1042,
         "featured": false,
         "description": "Use this beautifully crafted dolly however you like. Just know however you use it, it has been crafted by a professional."
+      },
+      {
+        "id": 15,
+        "name": "Peace Keeper",
+        "image": "images/PeaceKeeper-Directory.jpg",
+        "info": "images/PeaceKeeper.jpg",
+        "price": 1042,
+        "featured": false,
+        "description": "In a world full of chaos, this painting brings peace & tranquility back to earth."
+      },
+      {
+        "id": 16,
+        "name": "Election Day",
+        "image": "images/ElectionDay-Directory.jpg",
+        "info": "images/ElectionDay.jpg",
+        "price": 1042,
+        "featured": false,
+        "description": "The election was just as bizzare as 2020. Why not celebrate the victory as peace is brought back to America!"
+      },
+      {
+        "id": 17,
+        "name": "Invincible Motion",
+        "image": "images/InvincibleMotion-Directory.jpg",
+        "info": "images/InvincibleMotion.jpg",
+        "price": 1042,
+        "featured": false,
+        "description": "Love is always going to be there, even when you can't see it."
       }
     ],
     "comments": [
@@ -320,6 +347,38 @@
         "text": "I used to play the triangle back in the band!",
         "date": "2020-10-12T17:31:29.042Z",
         "id": 22
+      },
+      {
+        "campsiteId": 14,
+        "rating": "5",
+        "author": "Pat Bartasavich",
+        "text": "I could really use this for my back deck pots!",
+        "date": "2020-11-11T17:31:29.042Z",
+        "id": 23
+      },
+      {
+        "campsiteId": 16,
+        "rating": "5",
+        "author": "Duane Reed",
+        "text": "BIDEN 2020!",
+        "date": "2020-11-0614:31:29.042Z",
+        "id": 24
+      },
+      {
+        "campsiteId": 6,
+        "rating": "4",
+        "author": "Nathan Owen",
+        "text": "I want this for my man cave.",
+        "date": "2020-11-0614:31:29.042Z",
+        "id": 25
+      },
+      {
+        "campsiteId": 11,
+        "rating": "4",
+        "author": "Jim Bartasavich",
+        "text": "Beautiful piece. One of my favorites in fact.",
+        "date": "2020-10-3114:31:29.042Z",
+        "id": 26
       }
     ],
     "partners": [
