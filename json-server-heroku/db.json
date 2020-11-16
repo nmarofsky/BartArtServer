@@ -125,6 +125,15 @@
         "price": 1042,
         "featured": false,
         "description": "Every decision in life has consequences."
+      },
+      {
+        "id": 14,
+        "name": "Summer Dolly",
+        "image": "images/SummerDolly-Directory.jpg",
+        "info": "images/SummerDolly.jpg",
+        "price": 1042,
+        "featured": false,
+        "description": "Use this beautifully crafted dolly however you like. Just know however you use it, it has been crafted by a professional."
       }
     ],
     "comments": [
